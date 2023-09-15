@@ -1,5 +1,7 @@
 # Rust iOS Bazel Demo
 
+https://github.com/jpsim/rust-ios-bazel-demo/assets/474794/4e6957b9-d38f-4f5c-891d-cb79c60cdc73
+
 Requires having Xcode installed.
 
 First generate and open the Xcode project:
